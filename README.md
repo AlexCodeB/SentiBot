@@ -1,2 +1,1 @@
-# SentiBot
-LingHacks Hackathon Top-10 project
+# LingHacks-2018
